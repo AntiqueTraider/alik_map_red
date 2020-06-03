@@ -1,0 +1,11 @@
+ru\mapreduce\oab\Main$1.class
+ru\mapreduce\oab\mapreduce\result\full_name\NameSubMapper.class
+ru\mapreduce\oab\mapreduce\result\sub_key\SubNameMapper.class
+ru\mapreduce\oab\mapreduce\calls\CallMapper.class
+ru\mapreduce\oab\mapreduce\result\full_name\NameBanMapper.class
+ru\mapreduce\oab\helpers\ReadWrirer.class
+ru\mapreduce\oab\Main$cmdParse.class
+ru\mapreduce\oab\mapreduce\result\sub_key\SubTableMapper.class
+ru\mapreduce\oab\Main.class
+ru\mapreduce\oab\mapreduce\calls\CallReducer.class
+ru\mapreduce\oab\mapreduce\result\SubAndNameReducer.class
